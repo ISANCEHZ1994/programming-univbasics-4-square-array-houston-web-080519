@@ -1,3 +1,15 @@
+
+
 def square_array(array)
-  # your code here
+  x = 0
+  
+  while x <= 10
+   puts x
+  x = x * x 
+  
+  
+  
+end
+   
+
 end
