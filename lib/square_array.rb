@@ -5,7 +5,7 @@ def square_array(array)
   
   
   while x <= array.length do
-   puts array.
+   puts array
   x += 1 
   
   
